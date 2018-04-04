@@ -1,0 +1,16 @@
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/EditProductServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/domain/Product.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/DoEditProductServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/UserInfoServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/domain/UserAccount.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/CreateProductServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/dao/MySQLConnUtils.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/service/ProductService.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/ProductListServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/DeleteProductServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/HomeServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/DoLoginServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/dao/DAOUtil.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/utils/ServletUtil.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/LoginServlet.java
+/Users/kimprzybylski/Desktop/PrzybylskiKim_PROG_ADV_ZIT1/product/src/main/java/be/pxl/product/servlet/DoCreateProductServlet.java
